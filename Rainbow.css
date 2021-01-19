@@ -14,7 +14,7 @@ body {
   align-items: center;
 }
 body {
-  background-color:  #bdd6ff;
+  background-color: #bdd6ff;
 }
 .unit {
   text-align: center;
@@ -61,47 +61,47 @@ body {
 .heart-piece-0 {
   left: 0px;
   animation-delay: 0s;
-  background-color: #ec2d73;
+  background-color: #db91ac;
 }
 .heart-piece-1 {
   left: 16px;
   animation-delay: 0.15s;
-  background-color: #eb5324;
+  background-color: #d19f8f;
 }
 .heart-piece-2 {
   left: 32px;
   animation-delay: 0.3s;
-  background-color: #fdc800;
+  background-color: #dacb94;
 }
 .heart-piece-3 {
   left: 48px;
   animation-delay: 0.45s;
-  background-color: #47b264;
+  background-color: #69b37d;
 }
 .heart-piece-4 {
   left: 64px;
   animation-delay: 0.6s;
-  background-color: #1470bd;
+  background-color: #74a1c7;
 }
 .heart-piece-5 {
   left: 80px;
   animation-delay: 0.75s;
-  background-color: #76469a;
+  background-color: #976eb6;
 }
 .heart-piece-6 {
   left: 96px;
   animation-delay: 0.9s;
-  background-color: #ec2d73;
+  background-color: #d88faa;
 }
 .heart-piece-7 {
   left: 112px;
   animation-delay: 1.05s;
-  background-color: #eb5324;
+  background-color: #e0aa9a;
 }
 .heart-piece-8 {
   left: 128px;
   animation-delay: 1.2s;
-  background-color: #fdc800;
+  background-color: #ddcd91;
 }
 @-moz-keyframes piece-4 {
   0%, 10%, 90%, 100% {
